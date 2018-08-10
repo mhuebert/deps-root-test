@@ -1,1 +1,1 @@
-{:deps {monster/core {:local/root "../Monster"}}}
+{:deps {monster/A {:local/root "../Monster/A"}}}
